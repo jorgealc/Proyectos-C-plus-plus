@@ -1,0 +1,50 @@
+Cita 1
+Asunto:kjkfkf
+Fecha:14/1/1975    Inicio: 16:30   Final: 16:30
+Lugar: kfkfk Tipo:Trabajo
+
+Cita 1
+Asunto:jdjdj
+Fecha:14/1/1975    Inicio: 16:30   Final: 16:45
+Lugar: jdjdj Tipo:Trabajo
+
+Cita 1
+Asunto:jfjfjf
+Fecha:16/3/1990    Inicio: 16:30   Final: 17:30
+Lugar: fjfjfj Tipo:Trabajo
+
+Cita 1
+Asunto:fjfjf
+Fecha:16/1/1655    Inicio: 16:30   Final: 16:40
+Lugar: jffj Tipo:Trabajo
+
+Cita 2
+Asunto:jfjfj
+Fecha:16/1/1953    Inicio: 16:30   Final: 16:50
+Lugar: flflf Tipo:Trabajo
+
+Cita 1
+Asunto:kjfkfkf
+Fecha:14/11/1975    Inicio: 16:30   Final: 16:40
+Lugar: kfkfkf Tipo:Trabajo
+
+Cita 2
+Asunto:kfkfkf
+Fecha:16/30/1522    Inicio: 16:30   Final: 16:30
+Lugar: llll Tipo:Trabajo
+
+Cita 1
+Asunto:kjfkfkf
+Fecha:14/11/1975    Inicio: 16:30   Final: 16:40
+Lugar: kfkfkf Tipo:Trabajo
+
+Cita 2
+Asunto:kfkfkf
+Fecha:16/30/1522    Inicio: 16:30   Final: 16:30
+Lugar: llll Tipo:Trabajo
+
+Cita 3
+Asunto:kfflf
+Fecha:16/3/1975    Inicio: 16:30   Final: 16:30
+Lugar: lflfl Tipo:Trabajo
+
